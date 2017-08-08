@@ -80,10 +80,10 @@ src = np.float32(
     [704, 460],
     [1118, 720]])
 dst = np.float32(
-    [[240, 720],
-    [240, 0],
-    [1040, 0],
-    [1040, 720]])
+    [[210, 720],
+    [210, 0],
+    [1070, 0],
+    [1070, 720]])
 ```
 
 This resulted in the following source and destination points:
